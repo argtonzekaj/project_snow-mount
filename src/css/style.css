@@ -1,0 +1,119 @@
+body,
+input,
+select,
+option,
+textarea{
+    font-family: 'Lato', sans-serif;
+}
+.main_header{
+    width: 100%;
+    height: 1076px;
+    background-image: url(../images/alps-altitude-bird-s-eye-view-2013658.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.headerWrap{
+    display: flex;
+    justify-content: space-between;
+}
+.header_img{
+    margin-top: 45px;
+}
+.nav_bar-ul{
+    display: flex;
+    flex-direction: row;
+}
+.nav_bar li{
+    margin-top: 54px;
+    margin-left: 26px;
+    font-size: 32px;
+    line-height: 44px;
+    font-weight: 900;
+    color: white;
+    transition: all 0.7s ease-in-out;
+}
+.nav_bar-go:hover{
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: #3693D6;
+    border-radius: 34px;
+    background-color: white;
+}
+.nav_bar-border::after{
+    content: '';
+    display: block;
+    border-bottom: 2px solid #ffffff;
+    width: 42px;
+    margin-left: 25px;
+}
+.button{
+    margin-top: 43px!important;
+    color: #3693D6!important;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: white;
+    border-radius: 34px;
+}
+.button:hover{
+    background-color: #3693D6;
+    color: white!important;
+    transition: all 0.3s ease-in-out;
+}
+.nav_bar ul a{
+    text-decoration: none;
+}
+.header_intro-content{
+    margin-top: 265.9px;
+    margin-left: 500.9px;
+    width: 872.01px;
+    height: 511.09px;
+    transform: rotate(-9deg);
+}
+.header_intro-content h1{
+    font-size: 175px;
+    text-align: end;
+    color: white;
+    line-height: 233px;
+    font-weight: 400;
+}
+.header_button-work{
+    margin-left: 878px;
+    margin-top: 72px;
+}
+.header_button-work span:hover{
+    background-color: white;
+    color: #3693D6;
+    transition: all 0.3s ease-in-out;
+}
+.header_button-work a{
+    text-decoration: none;
+}
+.header_button-work span{
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 24px;
+    padding-right: 57px;
+    background-color: #3693D6;
+    color: white;
+    font-size: 32px;
+    line-height: 44px;
+    font-weight: 900;
+    border-radius: 34px;
+    position: relative;
+    transition: all 0.8s ease-in-out;
+}
+.header_button-work span::after{
+    content: '';
+    position: absolute;
+    display: inline-block;
+    background-image: url(../images/Group\ 2.svg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    margin-top: 10px;
+    margin-left: 4.2px;
+}

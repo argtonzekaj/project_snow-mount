@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="69" viewBox="0 0 512 69">
+  <g id="Component_4_1" data-name="Component 4 – 1" transform="translate(0 5)">
+    <text id="SNOWMOUNT" transform="translate(140 51)" fill="#fff" font-size="52" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">SNOW</tspan><tspan y="0" fill="#9bc0ff">MOUNT</tspan></text>
+    <path id="Path_8" data-name="Path 8" d="M120.953,186,74.47,139.522a18.953,18.953,0,0,0-13.491-5.588h0a18.954,18.954,0,0,0-13.493,5.594L1.046,186.006a3.574,3.574,0,0,0,2.528,6.1h8.4L52.4,151.642a12.044,12.044,0,0,1,8.574-3.555h0a12.044,12.044,0,0,1,8.573,3.551l40.468,40.468h8.4a3.574,3.574,0,0,0,2.527-6.1Z" transform="translate(0 -131.973)" fill="#fff"/>
+  </g>
+</svg>
